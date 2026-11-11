@@ -5,10 +5,6 @@ Periodic Memory for Test-Time Adaptation in Time-Series Forecasting**. It
 contains the DASH implementation, experiment launchers, a deterministic CPU
 smoke test, and one example checkpoint.
 
-## Contributors
-
-- chezhuoxun
-- chenyiyun
 
 ## Quick verification
 
